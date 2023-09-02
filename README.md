@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MadjesticEagle E-commerce site**
 
-- 🌱 I’m currently learning **java , Next.js , Tailwind CSS , three.js**
+- 🌱 I’m currently learning **java , HTML , CSS , ReactJS**
 
 - 💬 Ask me about **Java**
 
